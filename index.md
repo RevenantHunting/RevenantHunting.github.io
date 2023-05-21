@@ -10,55 +10,36 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Who tf am i
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm just some random guy and another random guy that likes to create things. 
 
-## Header 2
+## What type of projects am i working on?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Well I'm working on 2 things at the moement: Team Fortress 2: Brotherhood Of Arm remake, And LEFT 4 D3AD.
 
-### Header 3
+What are they? Well TF2:BOA is a complete remake of one of the first prototypes of TF2 back in like 2000 or something idk, And L4D3 is well.. A remake? of L4D3? 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### What do I do mostly?
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+I Mostly like to Level Design this stuff.
 
-#### Header 4
+#### What is this little stupif dev team made of?
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Revenant/Infinite (which is me)
+*   мокрый кот (which is my friend)
 
-##### Header 5
+##### Why do i do this nerdy stuff?
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  I'm a nerd
+2.  Its Fun
+3.  I'm a nerd
 
-###### Header 6
+###### WHAT TF IS THIS GOOFY AHH THEME
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+idk i just found it off github 
 
-### There's a horizontal rule below this.
+### 
 
 * * *
 
@@ -93,12 +74,10 @@ end
 - level 1 item
 
 ### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+[мокрый кот] ((https://cdn.discordapp.com/attachments/601576372598603807/1108960631530467388/Pantalone.jpg))
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://cdn.discordapp.com/attachments/1056106406803161109/1080614407777833060/090B9F05-F4F7-48B2-AC8E-EB9F28EF838A.jpg))
 
 
 ### Definition lists can be used with HTML syntax.
