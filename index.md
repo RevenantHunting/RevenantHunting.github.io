@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
 
 [My Discord Server](https://discord.gg/2AHUV2m7Af).
 
