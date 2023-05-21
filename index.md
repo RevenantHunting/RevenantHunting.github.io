@@ -44,30 +44,11 @@ idk i just found it off github
 
 
 
-### мокрый кот
-![Branching](https://cdn.discordapp.com/attachments/601576372598603807/1108960631530467388/Pantalone.jpg))
-### Revenant
-
+### Revenant (me)
 ![Branching](https://cdn.discordapp.com/attachments/1056106406803161109/1080614407777833060/090B9F05-F4F7-48B2-AC8E-EB9F28EF838A.jpg))
+### мокрый кот (my friend and yes i know thats a genshin character SHUT UP!)
+
+![Branching](https://cdn.discordapp.com/attachments/601576372598603807/1108960631530467388/Pantalone.jpg))
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
