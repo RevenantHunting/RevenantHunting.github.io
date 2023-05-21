@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[My Discord Server](https://discord.gg/2AHUV2m7Af).
 
 There should be whitespace between paragraphs.
 
