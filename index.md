@@ -39,43 +39,14 @@ I Mostly like to Level Design this stuff.
 
 idk i just found it off github 
 
-### 
 
-* * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-[мокрый кот] ((https://cdn.discordapp.com/attachments/601576372598603807/1108960631530467388/Pantalone.jpg))
-### Large image
+### мокрый кот
+![Branching](https://cdn.discordapp.com/attachments/601576372598603807/1108960631530467388/Pantalone.jpg))
+### Revenant
 
 ![Branching](https://cdn.discordapp.com/attachments/1056106406803161109/1080614407777833060/090B9F05-F4F7-48B2-AC8E-EB9F28EF838A.jpg))
 
